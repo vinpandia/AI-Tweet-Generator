@@ -1,3 +1,4 @@
+![WhatsApp Image 2023-10-14 at 1 57 23 PM](https://github.com/vinpandia/AI-Tweet-Generator/assets/110715509/f8ca6341-c1ed-44be-8106-2d6e8b12f219)
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -17,7 +18,7 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-![WhatsApp Image 2023-10-14 at 1 57 23 PM](https://github.com/vinpandia/AI-Tweet-Generator/assets/110715509/f8ca6341-c1ed-44be-8106-2d6e8b12f219)
+
 
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
